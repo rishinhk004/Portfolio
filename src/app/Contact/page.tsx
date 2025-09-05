@@ -43,7 +43,7 @@ export default function Contact() {
     <section className="max-w-2xl mx-auto px-6 py-12">
       <h1 className="text-xl md:text-3xl font-bold font-serif mb-6">Contact ~</h1>
       <p className="text-gray-400 mb-8">
-        Got a project, a question, or just wanna vibe? I'm always down to chat. 
+        Got a project, a question, or just wanna vibe? I&apos;m always down to chat. 
         Hit me up through the form or connect on any platform below.
       </p>
 

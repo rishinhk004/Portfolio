@@ -24,7 +24,6 @@ export const metadata = {
     "Backend Developer",
     "MERN Stack",
     "T3 Stack",
-    "GraphQL",
     "System Design"
   ],
   authors: [{ name: "Rishiraj Saha" }],
